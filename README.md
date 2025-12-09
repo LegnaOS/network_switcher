@@ -94,12 +94,12 @@ Configurations are saved to:
 
 ## Screenshots / 截图
 
-The app displays:
-- Current network connection (WiFi SSID or wired)
-- Router MAC address
-- Current IP, subnet, gateway, DNS settings
-- List of saved configurations
-- Edit panel for configuration details
+<img width="500" height="632" alt="image" src="https://github.com/user-attachments/assets/2c4e8760-ab98-45cb-a82e-8fde6420930e" />
+<img width="500" height="632" alt="image" src="https://github.com/user-attachments/assets/24ea7a13-d510-45c9-ac26-1a252b7b6b3c" />
+<img width="541" height="810" alt="image" src="https://github.com/user-attachments/assets/e396ce46-bbfd-4101-98df-20c962f0fd44" />
+<img width="541" height="432" alt="image" src="https://github.com/user-attachments/assets/274d49ae-53bc-45c2-ab33-e43835483296" />
+
+
 
 ## License / 许可证
 
